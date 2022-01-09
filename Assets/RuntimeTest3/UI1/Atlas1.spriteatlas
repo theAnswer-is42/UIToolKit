@@ -1,0 +1,70 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Atlas1
+  serializedVersion: 2
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings: []
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 1
+      enableAlphaDilation: 0
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 102900000, guid: e98ac1f4e2031f34e9298e1d1f96b798, type: 3}
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: d18842804a63896448cfb345238e7ca5, type: 3}
+  - {fileID: 21300000, guid: d7c326d0999ada84cb4fbe91c1acd740, type: 3}
+  - {fileID: 21300000, guid: 59743432fe40f884d9486daf3176b188, type: 3}
+  - {fileID: 21300000, guid: 2c241992b8a0bb64bad3894073098fd0, type: 3}
+  - {fileID: 21300000, guid: 70396875a6661bb469cb36a183a7a7a2, type: 3}
+  - {fileID: 21300000, guid: efb9bda59a4cc924787485ceee37d29c, type: 3}
+  - {fileID: 21300000, guid: 74a7ebb54cd836e4aba82836fc64c891, type: 3}
+  - {fileID: 21300000, guid: 1d2a4f5735b50264b84390a52741eae9, type: 3}
+  - {fileID: 21300000, guid: 184bee38340eb914388021ba34c95e8b, type: 3}
+  - {fileID: 21300000, guid: 3070c67b89ae8914582d793dc7a927ae, type: 3}
+  - {fileID: 21300000, guid: 1730afdd6882a41489d0f4b1dc84c028, type: 3}
+  - {fileID: 21300000, guid: b123ea0eff0452b4d950f17574583527, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - bg_3
+  - card2
+  - card0
+  - water
+  - card3
+  - card5
+  - card1
+  - button_yellow
+  - button_x
+  - card6
+  - card_frame
+  - card4
+  m_RenderDataMap: {}
+  m_Tag: Atlas1
+  m_IsVariant: 0
+  m_IsPlaceholder: 0
